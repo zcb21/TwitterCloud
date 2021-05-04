@@ -1,0 +1,10 @@
+Package: TwitterCloud
+Type: Package
+Title: Package allows user to search twitter for any given term and then creates a wordcloud of words commonly used with the searchterm.
+Version: 0.1.0
+Author: Zack Brown
+Maintainer: The package maintainer <zcb@usf.edu>
+Description: The package allows the user full freedom of what terms to create a wordcloud of.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
